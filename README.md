@@ -33,7 +33,7 @@ I'm currently **open to full-time Software Engineer opportunities** — feel fre
 
 ### 📌 Featured Projects
 
-#### [Community Hub](https://github.com/Bron-Banks/The-Commons-Community-Organizer-) — *React · TypeScript · Vite · GraphQL · Apollo Client · Module Federation*
+#### [Community Hub](https://github.com/Bron-Banks/The-Commons) — *React · TypeScript · Vite · GraphQL · Apollo Client · Module Federation*
 A scalable micro-frontend community engagement platform connecting neighborhoods through news, events, mutual help, and business support.
 - Built a micro-frontend architecture with independently deployable modules using Module Federation
 - Designed and integrated GraphQL services for Authentication, Community, and Events features
