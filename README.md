@@ -33,14 +33,14 @@ I'm currently **open to full-time Software Engineer opportunities** — feel fre
 
 ### 📌 Featured Projects
 
-#### [Community Hub](https://github.com/Kxngbron/The-Commons-Community-Organizer-) — *React · TypeScript · Vite · GraphQL · Apollo Client · Module Federation*
+#### [Community Hub](https://github.com/Bron-Banks/The-Commons-Community-Organizer-) — *React · TypeScript · Vite · GraphQL · Apollo Client · Module Federation*
 A scalable micro-frontend community engagement platform connecting neighborhoods through news, events, mutual help, and business support.
 - Built a micro-frontend architecture with independently deployable modules using Module Federation
 - Designed and integrated GraphQL services for Authentication, Community, and Events features
 - Implemented Apollo Client for efficient API communication, caching, and state management
 - Integrated AI-powered event summarization to boost user engagement
 
-🔗 [Live Website](https://the-commons-shell.vercel.app/) · 💻 [Source Code](https://github.com/Kxngbron/The-Commons-Community-Organizer-)
+🔗 [Live Website](https://the-commons-shell.vercel.app/) · 💻 [Source Code](https://github.com/Bron-Banks/The-Commons-Community-Organizer-)
 
 #### Marketplace Web Application (Team Lead) — *React · Node.js · Express.js · MongoDB · JWT · REST APIs*
 A full-stack marketplace platform built while leading a small development team.
@@ -48,7 +48,7 @@ A full-stack marketplace platform built while leading a small development team.
 - Built a scalable database architecture with role-based access controls
 - Integrated cloud hosting and media storage, applying best practices in API design and security
 
-🔗 [Live Website](https://online-marketing-u1mj.onrender.com) · 💻 [Source Code](https://github.com/Kxngbron/Online-Marketing)
+🔗 [Live Website](https://online-marketing-u1mj.onrender.com) · 💻 [Source Code](https://github.com/Bron-Banks/Online-Marketing)
 
 #### Cuisine Finder Mobile App — *Kotlin · Jetpack Compose · Google Maps API · Android Studio*
 A native Android app that helps users discover and navigate to restaurants across Toronto using location-based services.
@@ -56,15 +56,15 @@ A native Android app that helps users discover and navigate to restaurants acros
 - Built responsive, intuitive UI with Jetpack Compose and modern Android practices
 - Implemented category-based filtering to improve search efficiency
 
-💻 [Source Code](https://github.com/Kxngbron/Cuisine-Finder)
+💻 [Source Code](https://github.com/Bron-Banks/Cuisine-Finder)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kxngbron&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kxngbron&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bron-Banks&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bron-Banks&layout=compact&hide_border=true" />
 </p>
 
 ---
