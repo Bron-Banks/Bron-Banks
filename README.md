@@ -69,36 +69,4 @@ A native Android app that helps users discover and navigate to restaurants acros
 
 ---
 
-<p align="center"><i>Open to Software Engineer roles — let's connect!</i></p>- Implemented Apollo Client for efficient API communication, caching, and state management
-- Integrated AI-powered event summarization to boost user engagement
-
-🔗 [Live Website](https://the-commons-shell.vercel.app/) · 💻 [Source Code](https://github.com/Bron-Banks/The-Commons)
-
-#### Marketplace Web Application (Team Lead) — *React · Node.js · Express.js · MongoDB · JWT · REST APIs*
-A full-stack marketplace platform built while leading a small development team.
-- Designed and implemented secure RESTful APIs for auth, listings, and user interactions with JWT-based authorization
-- Built a scalable database architecture with role-based access controls
-- Integrated cloud hosting and media storage, applying best practices in API design and security
-
-🔗 [Live Website](https://online-marketing-u1mj.onrender.com) · 💻 [Source Code](https://github.com/Bron-Banks/Online-Marketing)
-
-#### Cuisine Finder Mobile App — *Kotlin · Jetpack Compose · Google Maps API · Android Studio*
-A native Android app that helps users discover and navigate to restaurants across Toronto using location-based services.
-- Integrated Google Maps API for interactive maps, restaurant locations, and navigation
-- Built responsive, intuitive UI with Jetpack Compose and modern Android practices
-- Implemented category-based filtering to improve search efficiency
-
-💻 [Source Code](https://github.com/Bron-Banks/Cuisine-Finder)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bron-Banks&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bron-Banks&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Open to Software Engineer roles — let's connect!</i></p>
