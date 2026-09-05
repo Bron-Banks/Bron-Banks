@@ -40,7 +40,7 @@ A scalable micro-frontend community engagement platform connecting neighborhoods
 - Implemented Apollo Client for efficient API communication, caching, and state management
 - Integrated AI-powered event summarization to boost user engagement
 
-🔗 [Live Website](https://the-commons-shell.vercel.app/) · 💻 [Source Code](https://github.com/Bron-Banks/The-Commons-Community-Organizer-)
+🔗 [Live Website](https://the-commons-shell.vercel.app/) · 💻 [Source Code](https://github.com/Bron-Banks/The-Commons)
 
 #### Marketplace Web Application (Team Lead) — *React · Node.js · Express.js · MongoDB · JWT · REST APIs*
 A full-stack marketplace platform built while leading a small development team.
