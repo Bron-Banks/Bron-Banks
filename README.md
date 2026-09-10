@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineering Technology graduate (Advanced Diploma with Honors, Centennial College — GPA 3.9) based in Toronto, Canada. I like building things across the full stack — from micro-frontend architectures and GraphQL services to native mobile apps.
+I'm a Software Engineering Technology graduate (Advanced Diploma with Honors, Centennial College — GPA 3.53 on a 4.0 scale) based in Toronto, Canada. I like building things across the full stack — from micro-frontend architectures and GraphQL services to native mobile apps.
 
 I'm currently **open to full-time Software Engineer opportunities** — feel free to reach out!
 
