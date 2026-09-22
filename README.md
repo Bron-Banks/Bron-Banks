@@ -60,13 +60,6 @@ A native Android app that helps users discover and navigate to restaurants acros
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bron-Banks&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bron-Banks&layout=compact&hide_border=true" />
-</p>
+<p align="center"><i>Open to Software Engineer roles — let's connect!</i></p>
 
 ---
-
-<p align="center"><i>Open to Software Engineer roles — let's connect!</i></p>
